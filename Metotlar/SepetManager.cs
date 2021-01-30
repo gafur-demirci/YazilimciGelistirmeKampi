@@ -13,5 +13,10 @@ namespace Metotlar
         {
             Console.WriteLine("Seçilen " + urun.Adi + " isimli ürün eklendi.");
         }
+
+        public void Ekle2(string urunAdi, string urunAciklama, double urunFiyati)
+        {
+            Console.WriteLine("Seçilen " + urunAdi + " isimli ürün eklendi.");
+        }
     }
 }
