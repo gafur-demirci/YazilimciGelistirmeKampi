@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YazilimciGelistirmeKampi", "YazilimciGelistirmeKampi\YazilimciGelistirmeKampi.csproj", "{60331D3B-5239-4B0E-8816-D48F5CD420D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classlar", "YazilimciGelistirmeKampi\Classlar.csproj", "{60331D3B-5239-4B0E-8816-D48F5CD420D7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{47AECBE3-D139-4A02-A3D4-63924C763A84}"
 EndProject
