@@ -29,6 +29,7 @@ namespace OOP1
             // Stack                        // Heap
             productManager.Add(product1);
             Console.WriteLine(product1.ProductName);
+            productManager.Update(product3);
 
             // int tanımlama değer tip olduğundan değeri değişmez ama product1.ProductName class yapısında yani referans tip olduğundan değişir.
             //                 100                                                                 Kamera
