@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GenericsIntro
 {
-    class MyList<T>  // T o an kullanıcı <> içerisine hangi tür (str int ...) yazarsa o tipte veri tutacağını göstermek için yazılır.
+    class MyList<T>  // T -> O an kullanıcı <> içerisine hangi tür (str int ...) yazarsa o tipte veri tutacağını göstermek için yazılır.
     {
         T[] items;
         // constructor
