@@ -10,8 +10,8 @@ namespace YazilimciGelistirmeKampi
 
             Console.WriteLine("Selam Dünyalı");
 
-            string adi = "Gafur";
-            int yas = 24;
+            //string adi = "Gafur";
+            //int yas = 24;
 
             Kurs javaKursu = new Kurs();
             javaKursu.KursAdi = "Java";

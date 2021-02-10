@@ -6,7 +6,7 @@ namespace Metotlar
 {
     class SepetManager
     {
-        //naming convention
+        // naming convention
         // Product metot içerisinde kullanılacak objenin türünü urun ise takma adı temsil etmektedir.
         // Buna da paramatre denmektedir.
         public void Ekle(Product urun)
